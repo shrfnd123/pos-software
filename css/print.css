@@ -1,0 +1,35 @@
+﻿
+#parting  {
+    border-collapse: collapse;
+}
+
+#parting td{
+    height: 30px;
+    border: 1px solid black;
+}
+
+#parting th{
+     height: 30px;
+    border: 1px solid black;
+}
+
+   
+#parting1  {
+    
+    border-collapse: collapse;
+}
+
+#parting1 td{
+     height: 30px;
+    border: 1px solid black;
+}
+
+#parting1 th{
+     height: 30px;
+    border: 1px solid black;
+}
+.thead_b
+{
+     background: url(images/heading.jpg);
+}
+
